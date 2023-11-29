@@ -1,0 +1,9 @@
+{
+  "name": "AWS",
+  "description: "Defines AWS elements",
+  "elements": [
+    {
+      "tag": "AWS S3",
+      "icon": ""
+  ]
+}
