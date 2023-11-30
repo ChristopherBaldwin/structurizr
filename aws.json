@@ -4,11 +4,11 @@
   "elements": [
     {
       "tag": "AWS API-Gateway",
-      "icon": "Architecture-Service-Icons_10232023/Arch_Storage/32/Arch_Amazon-API-Gateway_32.png"
+      "icon": "Architecture-Service-Icons_10232023/Arch_App-Integration/32/Arch_Amazon-API-Gateway_32.png"
     },
     {
       "tag": "AWS Lambda",
-      "icon": "Architecture-Service-Icons_10232023/Arch_Storage/32/Arch_AWS-Lambda_32.png"
+      "icon": "Architecture-Service-Icons_10232023/Arch_Compute/32/Arch_AWS-Lambda_32.png"
     },
     {
       "tag": "AWS S3",
