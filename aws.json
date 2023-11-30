@@ -3,6 +3,14 @@
   "description": "Defines AWS elements",
   "elements": [
     {
+      "tag": "AWS API-Gateway",
+      "icon": "Architecture-Service-Icons_10232023/Arch_Storage/32/Arch_Amazon-API-Gateway_32.png"
+    },
+    {
+      "tag": "AWS Lambda",
+      "icon": "Architecture-Service-Icons_10232023/Arch_Storage/32/Arch_AWS-Lambda_32.png"
+    },
+    {
       "tag": "AWS S3",
       "icon": "Architecture-Service-Icons_10232023/Arch_Storage/32/Arch_Amazon-Simple-Storage-Service_32.png"
     }
