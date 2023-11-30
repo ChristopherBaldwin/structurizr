@@ -1,9 +1,10 @@
 {
   "name": "AWS",
-  "description: "Defines AWS elements",
+  "description": "Defines AWS elements",
   "elements": [
     {
       "tag": "AWS S3",
-      "icon": ""
+      "icon": "Architecture-Service-Icons_10232023/Arch_Storage/32/Arch_Amazon-Simple-Storage-Service_32.png"
+    }
   ]
 }
